@@ -99,28 +99,6 @@ The **best performing model** is automatically selected.
 
 ---
 
-# 📊 Experiment Tracking (MLflow)
-
-This project uses **MLflow** to track:
-
-* Model parameters
-* Evaluation metrics
-* Model artifacts
-
-Run the MLflow dashboard:
-
-```
-mlflow ui
-```
-
-Open in browser:
-
-```
-http://127.0.0.1:5000
-```
-
----
-
 # 🚀 Installation
 
 ### 1️⃣ Clone the repository
